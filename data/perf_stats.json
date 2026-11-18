@@ -37442,6 +37442,1070 @@
    "date": "2026-11-17",
    "etf": "00995A",
    "type": "REMOVE"
+  },
+  {
+   "close": 2175.0,
+   "code": "2330",
+   "date": "2026-11-18",
+   "etf": "00400A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 1140.0,
+   "code": "2360",
+   "date": "2026-11-18",
+   "etf": "00400A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 352.0,
+   "code": "2327",
+   "date": "2026-11-18",
+   "etf": "00400A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 768.0,
+   "code": "6274",
+   "date": "2026-11-18",
+   "etf": "00400A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 224.0,
+   "code": "1477",
+   "date": "2026-11-18",
+   "etf": "00401A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 4570.0,
+   "code": "3653",
+   "date": "2026-11-18",
+   "etf": "00401A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 548.0,
+   "code": "3711",
+   "date": "2026-11-18",
+   "etf": "00403A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 734.0,
+   "code": "2379",
+   "date": "2026-11-18",
+   "etf": "00403A",
+   "type": "ADD"
+  },
+  {
+   "close": 768.0,
+   "code": "6274",
+   "date": "2026-11-18",
+   "etf": "00403A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 209.0,
+   "code": "3211",
+   "date": "2026-11-18",
+   "etf": "00403A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 2175.0,
+   "code": "2330",
+   "date": "2026-11-18",
+   "etf": "00405A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 2715.0,
+   "code": "3017",
+   "date": "2026-11-18",
+   "etf": "00405A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 548.0,
+   "code": "3711",
+   "date": "2026-11-18",
+   "etf": "00405A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 1135.0,
+   "code": "8996",
+   "date": "2026-11-18",
+   "etf": "00405A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 334.0,
+   "code": "6415",
+   "date": "2026-11-18",
+   "etf": "00405A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 548.0,
+   "code": "3711",
+   "date": "2026-11-18",
+   "etf": "00406A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 1420.0,
+   "code": "2345",
+   "date": "2026-11-18",
+   "etf": "00406A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 877.0,
+   "code": "2368",
+   "date": "2026-11-18",
+   "etf": "00406A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 382.0,
+   "code": "4958",
+   "date": "2026-11-18",
+   "etf": "00406A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 67.9,
+   "code": "1326",
+   "date": "2026-11-18",
+   "etf": "00406A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 1135.0,
+   "code": "8996",
+   "date": "2026-11-18",
+   "etf": "00406A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 162.0,
+   "code": "3231",
+   "date": "2026-11-18",
+   "etf": "00406A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 85.4,
+   "code": "4938",
+   "date": "2026-11-18",
+   "etf": "00406A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 221.0,
+   "code": "2317",
+   "date": "2026-11-18",
+   "etf": "00406A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 325.0,
+   "code": "2408",
+   "date": "2026-11-18",
+   "etf": "00407A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 2715.0,
+   "code": "3017",
+   "date": "2026-11-18",
+   "etf": "00408A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 3950.0,
+   "code": "3661",
+   "date": "2026-11-18",
+   "etf": "00408A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 2915.0,
+   "code": "6510",
+   "date": "2026-11-18",
+   "etf": "00408A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 4390.0,
+   "code": "6223",
+   "date": "2026-11-18",
+   "etf": "00408A",
+   "type": "ADD"
+  },
+  {
+   "close": 399.5,
+   "code": "3026",
+   "date": "2026-11-18",
+   "etf": "00408A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 775.0,
+   "code": "8046",
+   "date": "2026-11-18",
+   "etf": "00410A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 3950.0,
+   "code": "3661",
+   "date": "2026-11-18",
+   "etf": "00416A",
+   "type": "ADD"
+  },
+  {
+   "close": 9700.0,
+   "code": "5274",
+   "date": "2026-11-18",
+   "etf": "00418A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 1550.0,
+   "code": "3665",
+   "date": "2026-11-18",
+   "etf": "00981A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 1140.0,
+   "code": "2360",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 1475.0,
+   "code": "6669",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 208.0,
+   "code": "2301",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 544.0,
+   "code": "6488",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 877.0,
+   "code": "2368",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 142.0,
+   "code": "5483",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 93.0,
+   "code": "2303",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 9700.0,
+   "code": "5274",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 133.5,
+   "code": "3265",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 71.7,
+   "code": "5425",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 161.0,
+   "code": "2428",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 45.1,
+   "code": "8070",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 94.9,
+   "code": "2476",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 262.0,
+   "code": "3617",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 202.0,
+   "code": "6285",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 101.5,
+   "code": "2441",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 249.0,
+   "code": "8016",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 81.5,
+   "code": "3702",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 352.0,
+   "code": "2327",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 127.5,
+   "code": "3045",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 662.0,
+   "code": "3037",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 116.0,
+   "code": "3090",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 481.5,
+   "code": "3044",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 57.5,
+   "code": "3028",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 141.0,
+   "code": "2486",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 3950.0,
+   "code": "3661",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 264.5,
+   "code": "2467",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 129.0,
+   "code": "2351",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 218.5,
+   "code": "2451",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 82.0,
+   "code": "1785",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 517.0,
+   "code": "6691",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 673.0,
+   "code": "4749",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 184.5,
+   "code": "7788",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 1310.0,
+   "code": "7828",
+   "date": "2026-11-18",
+   "etf": "00982A",
+   "type": "ADD"
+  },
+  {
+   "close": 4570.0,
+   "code": "3653",
+   "date": "2026-11-18",
+   "etf": "00985A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 3465.0,
+   "code": "2383",
+   "date": "2026-11-18",
+   "etf": "00985A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 1680.0,
+   "code": "3081",
+   "date": "2026-11-18",
+   "etf": "00985A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 662.0,
+   "code": "3037",
+   "date": "2026-11-18",
+   "etf": "00985A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 595.0,
+   "code": "6531",
+   "date": "2026-11-18",
+   "etf": "00985A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 1135.0,
+   "code": "8996",
+   "date": "2026-11-18",
+   "etf": "00985A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 4390.0,
+   "code": "6223",
+   "date": "2026-11-18",
+   "etf": "00987A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 316.0,
+   "code": "3363",
+   "date": "2026-11-18",
+   "etf": "00987A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 9700.0,
+   "code": "5274",
+   "date": "2026-11-18",
+   "etf": "00987A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 325.0,
+   "code": "2408",
+   "date": "2026-11-18",
+   "etf": "00991A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 352.0,
+   "code": "2327",
+   "date": "2026-11-18",
+   "etf": "00991A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 4390.0,
+   "code": "6223",
+   "date": "2026-11-18",
+   "etf": "00991A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 4410.0,
+   "code": "3008",
+   "date": "2026-11-18",
+   "etf": "00991A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 470.0,
+   "code": "3105",
+   "date": "2026-11-18",
+   "etf": "00991A",
+   "type": "ADD"
+  },
+  {
+   "close": 841.0,
+   "code": "2357",
+   "date": "2026-11-18",
+   "etf": "00991A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 2175.0,
+   "code": "2330",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 2715.0,
+   "code": "3017",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 3465.0,
+   "code": "2383",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 662.0,
+   "code": "3037",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 1510.0,
+   "code": "3491",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 253.5,
+   "code": "1303",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 470.0,
+   "code": "3105",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 4570.0,
+   "code": "3653",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 548.0,
+   "code": "3711",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 9700.0,
+   "code": "5274",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 1680.0,
+   "code": "3081",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 438.5,
+   "code": "6213",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 1550.0,
+   "code": "3665",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "ADD"
+  },
+  {
+   "close": 1135.0,
+   "code": "8996",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 800.0,
+   "code": "3406",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 325.0,
+   "code": "2408",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 382.0,
+   "code": "4958",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 1760.0,
+   "code": "6805",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 877.0,
+   "code": "2368",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 108.0,
+   "code": "2344",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 4410.0,
+   "code": "3008",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 589.0,
+   "code": "2395",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 6520.0,
+   "code": "2059",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 2915.0,
+   "code": "6510",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 89.8,
+   "code": "6505",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 305.0,
+   "code": "8021",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "ADD"
+  },
+  {
+   "close": 1520.0,
+   "code": "8299",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "ADD"
+  },
+  {
+   "close": 927.0,
+   "code": "2404",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 64.9,
+   "code": "2885",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "ADD"
+  },
+  {
+   "close": 202.0,
+   "code": "6285",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 33.75,
+   "code": "2883",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "ADD"
+  },
+  {
+   "close": 149.0,
+   "code": "2881",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "ADD"
+  },
+  {
+   "close": 3950.0,
+   "code": "3661",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "ADD"
+  },
+  {
+   "close": 282.5,
+   "code": "2049",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 81.5,
+   "code": "3702",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "ADD"
+  },
+  {
+   "close": 208.0,
+   "code": "2301",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "ADD"
+  },
+  {
+   "close": 1340.0,
+   "code": "7750",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "ADD"
+  },
+  {
+   "close": 93.0,
+   "code": "2303",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 162.0,
+   "code": "3231",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 1475.0,
+   "code": "6669",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 73.5,
+   "code": "2347",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 46.45,
+   "code": "2027",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 347.0,
+   "code": "6196",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 1140.0,
+   "code": "2360",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 70.0,
+   "code": "2606",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 3560.0,
+   "code": "6515",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 1420.0,
+   "code": "2345",
+   "date": "2026-11-18",
+   "etf": "00993A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 2715.0,
+   "code": "3017",
+   "date": "2026-11-18",
+   "etf": "00994A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 2915.0,
+   "code": "6510",
+   "date": "2026-11-18",
+   "etf": "00994A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 3950.0,
+   "code": "3661",
+   "date": "2026-11-18",
+   "etf": "00994A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 768.0,
+   "code": "6274",
+   "date": "2026-11-18",
+   "etf": "00994A",
+   "type": "DECREASE"
+  },
+  {
+   "close": 4390.0,
+   "code": "6223",
+   "date": "2026-11-18",
+   "etf": "00994A",
+   "type": "ADD"
+  },
+  {
+   "close": 399.5,
+   "code": "3026",
+   "date": "2026-11-18",
+   "etf": "00994A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 382.0,
+   "code": "4958",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 4410.0,
+   "code": "3008",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 3565.0,
+   "code": "7769",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 595.0,
+   "code": "6531",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 74.4,
+   "code": "8150",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 93.0,
+   "code": "2303",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 52.6,
+   "code": "2886",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 221.0,
+   "code": "2317",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 673.0,
+   "code": "6526",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 630.0,
+   "code": "1560",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "INCREASE"
+  },
+  {
+   "close": 177.5,
+   "code": "3036",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "ADD"
+  },
+  {
+   "close": 1680.0,
+   "code": "3081",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 1140.0,
+   "code": "2360",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 6520.0,
+   "code": "2059",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 334.0,
+   "code": "6415",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "REMOVE"
+  },
+  {
+   "close": 399.5,
+   "code": "3026",
+   "date": "2026-11-18",
+   "etf": "00995A",
+   "type": "REMOVE"
   }
  ]
 }
